@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1668724536 source:d:\iti\c_programming_language\training\acountant_project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+
+1668724536 source:f:\iti\study group\week1_accountant_project\acountant_project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+

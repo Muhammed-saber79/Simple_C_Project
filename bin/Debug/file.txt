@@ -1,0 +1,10 @@
+
+************** product data *************
+product id  : 1
+product name: moh
+price       : 50.000000
+
+************** product data *************
+product id  : 2
+product name: lkj
+price       : 65.000000
